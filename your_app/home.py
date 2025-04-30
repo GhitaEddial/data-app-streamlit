@@ -42,7 +42,6 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# Hero title
 st.markdown("""
     <h1>
         Monitor <span class="highlight">all</span> your competitors'<br>marketing moves
